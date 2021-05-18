@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+#count-form {
+    height: 120px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(237deg 100% 50% / 4%);
+}
+
+#input-tag{
+    font-size: 45px;
+    height: 60px;
+    width: 100px;
+    text-align: center;
+    border-radius: 4px
+}
+
+#submit-button {
+    font-size: 20px;
+    height: 30px;
+    width: 50px;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 20px;
+}
