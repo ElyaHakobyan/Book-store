@@ -1,0 +1,15 @@
+.card {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    height: 380px;
+    width: 260px;
+    border: 7px solid #00000061;
+    margin: 70px;
+    text-align: center;
+    border-radius: 40px;
+}
+
+.book-img {
+    height: 300px;
+    width: 200px;
+}
